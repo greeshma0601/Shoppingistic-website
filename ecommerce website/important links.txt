@@ -1,0 +1,5 @@
+isset in php => The isset() function checks whether a variable is set, which means that it has to be declared and is not NULL.
+
+This function returns true if the variable exists and is not NULL, otherwise it returns false.
+
+https://www.w3schools.com/php/func_var_isset.asp#:~:text=The%20isset()%20function%20checks,NULL%2C%20otherwise%20it%20returns%20false.
